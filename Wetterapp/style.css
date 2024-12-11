@@ -1,0 +1,30 @@
+body {
+    background: url(Hintergrund.jfif);
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+.app-main {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.input-box {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.weather-body .location-details, .weather-body .weather-status {
+    margin-bottom: 15px;
+}
+            
